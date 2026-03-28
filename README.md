@@ -1,0 +1,1 @@
+# osmnx_inner_bangkok_walkability
