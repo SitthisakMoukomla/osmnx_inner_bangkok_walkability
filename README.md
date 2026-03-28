@@ -7,10 +7,6 @@
 ![H3](https://img.shields.io/badge/H3-Resolution_9-orange)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey)
 
-<p align="center">
-  <img src="assets/bkk_walkability_preview.png" alt="Bangkok Walkability H3 Map" width="720">
-</p>
-
 ## TL;DR
 
 ดึง POI และ walking network จาก OSM ผ่าน OSMnx 2.1.0 → แบ่งพื้นที่เป็น H3 hexagon (res 9, ~174m) → คำนวณ walkability score จาก 6 ตัวแปร → render เป็น interactive 3D map ด้วย PyDeck
